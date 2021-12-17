@@ -1,0 +1,30 @@
+[
+    {
+        "index": 0,
+        "message": "Ett första meddelande kommer här.",
+        "name": "Christofer",
+        "email": "christofer.gumowski.syned21jon@tucsweden.se",
+        "likes": 3
+    },
+    {
+        "index": 1,
+        "message": "Han shot first!",
+        "name": "Child of Greedo",
+        "email": "Breedo@moseisly.uni",
+        "likes": 6
+    },
+    {
+        "index": 2,
+        "message": "&lt;script&gt;alert(&quot;test&quot;);&lt;/script&gt;",
+        "name": "ondman",
+        "email": "ond@ondska.ond",
+        "likes": -4
+    },
+    {
+        "index": 3,
+        "message": "hugs&lt;3",
+        "name": "Creepingzinnea",
+        "email": "pluttplutt@sotis.se",
+        "likes": 3
+    }
+]
